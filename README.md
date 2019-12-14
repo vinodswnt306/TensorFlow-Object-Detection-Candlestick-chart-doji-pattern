@@ -2,7 +2,7 @@
 Using tensorflow API creating doji candlestick recognizer
 
 Doji pattern detection can be done via manual coding on stock data in csv file using pandas library.
-But I wanted to try my first baby step into Computer Vision world using Tensorflow.
+But I wanted to try my first step into Computer Vision world using Tensorflow.
 
 # Output files
 
@@ -25,9 +25,13 @@ Model used : faster_rcnn_inception_v2_coco_2018_01_28
 
 No. of train images used : 40
 
-Labellmg is used for labeling those images.
+Labellmg is used for labeling training images.
 
 batch size : 1
+
+# Future scope
+
+Make profitable pattern recognition using Elliot wave theory
 
 # Credits:
 
